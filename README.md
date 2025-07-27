@@ -47,7 +47,7 @@
 |-----------------|----------------------------------|
 | *Frontend*    | React.js + Tailwind CSS          |
 | *Backend*     | Node.js + Express.js             |
-| *Notifications*| Twilio /                        |
+| *Notifications*| Twilio                          |
 | *PWA*         | React + Manifest + Service Worker|
 | *Deployment*  | Replit Monorepo / GitHub Pages   |
 
